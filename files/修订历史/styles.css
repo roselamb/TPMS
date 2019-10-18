@@ -1,6 +1,6 @@
 ﻿body {
   margin:0px;
-  background-image:url('../../images/修订历史/bg.png');
+  background-image:url('../../images/修订历史/regen/bg.png');
   background-position:left top;
   background-repeat:repeat-x;
   background-attachment:scroll;
@@ -225,7 +225,6 @@
   left:2px;
   top:2px;
   width:96px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u17_img {
